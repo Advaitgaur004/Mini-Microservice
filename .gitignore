@@ -1,0 +1,7 @@
+# Ignore database files
+Product-service/products.db
+Review-service/reviews.db
+Inventory-service/inventory.db
+
+# Ignore node_modules in all directories
+**/node_modules/
